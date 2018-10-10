@@ -1,0 +1,32 @@
+﻿		Instalação do Jogo
+
+
+1 - Descompacte o arquivo InstaladorCrystalKnight.zip;
+2 - Abra a pasta CrystalKnight;
+3 - Duplo-Clique com o botão esquerdo do mouse no arquivo CrystalKnight.exe;
+4 - Divirta-se.
+
+
+		Controles
+
+Movimento:            Teclas direcionais ou WASD
+Mirar:                Mouse
+Ataque Básico:        Clique esquerdo do mouse
+Habilidades
+* Congelar                Q
+* Tempestade de Gelo      E
+* Núcleo Congelado        R
+* Laser de Gelo           F
+* Fúria                   Espaço
+
+
+Menu Lateral(Poções):
+Comprar        -  Clique esquerdo do mouse embaixo da poção
+Usar           -  Clique esquerdo do mouse em cima da poção
+
+Poção de Vida(Vermelha);
+Poção de Mana(Azul);
+Poção de Fúria(Amarela);
+
+
+OBS:        O seu progresso só será salvo, ao passar de cada fase, caso morra antes. Nada obtido naquela fase será restaurado.
